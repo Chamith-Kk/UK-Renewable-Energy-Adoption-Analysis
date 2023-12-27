@@ -18,7 +18,10 @@ Methodology
 
 Key Findings
 [Briefly summarize the key findings of your analysis. This could include interesting patterns revealed by the EDA, results of the statistical analysis, or insights from the cluster analysis.]
+
 <img width="361" alt="Rplot" src="https://github.com/Chamith-Kotage/UK-Renewable-Energy-Adoption-Analysis/assets/93552766/4b3fff4d-f27c-4e10-a0ce-9d0796978ed3">
+<img width="361" alt="Rplot01" src="https://github.com/Chamith-Kotage/UK-Renewable-Energy-Adoption-Analysis/assets/93552766/69b022e5-a0b2-48de-a74a-043121a7854f">
+
 
 The analysis identified four distinct clusters of renewable energy plants in the UK, differentiated by their geographic distribution, capacity, and technology. 
 -Cluster 1 (Orange) represents specialized installations spread across diverse locales, suggesting niche energy solutions. 
